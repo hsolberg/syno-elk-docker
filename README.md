@@ -1,5 +1,5 @@
 # syno-elk-docker
-Synology adoption of sebp/elk. Docker image at https://hub.docker.com/r/andig/syno-elk/.
+Synology adoption of sebp/elk. Docker image at https://hub.docker.com/r/honoki/syno-elk-docker.
 
 ## Prerequisites
 
